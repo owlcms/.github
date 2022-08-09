@@ -1,5 +1,4 @@
-# .github
-owlcms - Olympic Weightlifting Competition Management System
+#owlcms - Olympic Weightlifting Competition Management System
 
 This organisation contains the published releases of the owlcms software.
 There are three repositories for stable releases (owlcms4, owlcms-heroku, publicresults-heroku)
